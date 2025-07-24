@@ -37,7 +37,8 @@
 1. 进入任意 ESJ Zone 小说目录页，例如：  
    `https://www.esjzone.cc/detail/123456.html`
 2. 等待页面加载完毕，章节列表上方会出现 **“下载全书”** 按钮。  
-   ![按钮示例](<img width="847" height="557" alt="image" src="https://github.com/user-attachments/assets/afee75ef-4a74-40fa-8e3a-64896292ad47" />)
+   按钮示例：(<img width="847" height="557" alt="image" src="https://github.com/user-attachments/assets/f0d1767f-0814-4a2b-ab4d-f61d1ae49260" />
+)
 3. 点击按钮，脚本会依次抓取所有章节内容，打包为 **UTF-8 纯文本 txt** 并自动下载到本地。
 
 ---
